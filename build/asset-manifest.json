@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cea7775d.css",
+    "main.js": "/static/js/main.b764193f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DP.png": "/static/media/DP.e82ee73593ed5f250c15.png",
+    "static/media/Rent-it.png": "/static/media/Rent-it.310f542db47c21d354ac.png",
+    "static/media/Learn.png": "/static/media/Learn.32f82add850de3989086.png",
+    "static/media/Screenshot (764).png": "/static/media/Screenshot (764).0df4236ed479f8ae4180.png",
+    "static/media/Screenshot (766).png": "/static/media/Screenshot (766).82a10a35c14c4ed70647.png",
+    "static/media/Todo-app.png": "/static/media/Todo-app.36430b9cb210c7416824.png",
+    "static/media/Resume.pdf": "/static/media/Resume.c93c33b74011b15ea59c.pdf",
+    "static/media/Bg-image-1.jpeg": "/static/media/Bg-image-1.9155913e1c68ff050f9e.jpeg",
+    "static/media/Working.png": "/static/media/Working.eff71eaf411408844b16.png",
+    "index.html": "/index.html",
+    "main.cea7775d.css.map": "/static/css/main.cea7775d.css.map",
+    "main.b764193f.js.map": "/static/js/main.b764193f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea7775d.css",
+    "static/js/main.b764193f.js"
+  ]
+}

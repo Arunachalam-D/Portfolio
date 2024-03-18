@@ -1,0 +1,79 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&family=Courgette&family=Poiret+One&family=Stalemate&display=swap');
+.intro{
+    background-image: url('../src/assets/Bg-image-1.jpeg');
+}
+.about{
+    font-family:'Courgette', cursive;   
+  
+}
+
+.card1{
+    margin-top: 7%;
+    transition: 0.5s;
+    height: fit-content;
+}
+.card1:hover{
+    margin-top: 4%;
+    transition: 0.5s;
+    box-shadow: 3px 3px 3px rgb(194, 194, 194);
+}
+.card2{
+    margin-top: 7%;
+    transition: 0.5s;
+    height: fit-content;
+}
+.card2:hover{
+    margin-top: 4%;
+    transition: 0.5s;
+    box-shadow: 3px 3px 3px rgb(194, 194, 194);
+}
+.card3{
+    margin-top: 7%;
+    transition: 0.5s;
+    height: fit-content;
+}
+.card3:hover{
+    margin-top: 4%;
+    transition: 0.5s;
+    box-shadow: 3px 3px 3px rgb(194, 194, 194);
+}
+body{
+    background-color: #f7f0e3;
+}
+.name{
+    -webkit-text-stroke: 1px rgb(135, 147, 159);
+    color: transparent;
+    font-family:sans-serif;   
+}
+
+.Ar{
+        font-family: Stalemate, serif;
+        color: black;
+        font-size: 5vh;
+        font-weight: 700;
+}
+.loading {
+ 
+    animation: loading 2s infinite ease-in-out;
+   
+
+  }
+  
+  @keyframes loading {
+    0% {
+      transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+    }
+  
+    50% {
+      transform: perspective(120px) rotateX(0deg) rotateY(-180deg);
+    }
+  
+    100% {
+      transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+      
+    }
+  }
+  
